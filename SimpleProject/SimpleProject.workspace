@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SimpleProject" Database="" Version="10.0.0">
+  <Project Name="Engine" Path="Engine.project" Active="Yes"/>
+  <Project Name="Games" Path="Games.project"/>
+  <Project Name="UE4" Path="Intermediate/ProjectFiles/UE4.project"/>
+  <Project Name="SimpleProject" Path="Intermediate/ProjectFiles/SimpleProject.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UE4" ConfigName="BuiltWithUnrealBuildTool_Win32"/>
+      <Project Name="SimpleProject" ConfigName="DebugGame_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="DebugGame_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="DebugGame_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="DebugGame_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_DebugGame_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_DebugGame_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_DebugGame_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_DebugGame_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Shipping_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_DebugGame_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_DebugGame_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_DebugGame_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_DebugGame_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Shipping_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Shipping_Game_x64"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UE4" ConfigName="BuiltWithUnrealBuildTool_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="HTML5_Shipping_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Editor_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Editor_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Development_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="IOS_Shipping_Game_x64"/>
+      <Project Name="SimpleProject" ConfigName="Shipping_Game_Win32"/>
+      <Project Name="SimpleProject" ConfigName="Shipping_Game_x64"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,3 @@
+d:\Users\BM\Desktop\SimpleProject\Source\SimpleProject\SimpleProject.Build.cs
+d:\Users\BM\Desktop\SimpleProject\Source\SimpleProject.Target.cs
+d:\Users\BM\Desktop\SimpleProject\Source\SimpleProjectEditor.Target.cs
